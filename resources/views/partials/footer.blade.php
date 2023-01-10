@@ -1,5 +1,5 @@
 <footer class="w-full">
-    <div class="w-full items-center justify-center bg-[#1AA7EC] flex h-full text-[12px]">
+    <div class="w-full items-center justify-center bg-[#1AA7EC] flex h-full text-[12px] text-white">
         Creator by Leonardo Nim 18.01.53.2036
     </div>
 </footer>

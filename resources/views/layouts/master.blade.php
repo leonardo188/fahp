@@ -11,7 +11,8 @@
 
     @include('partials.header')
 
-    <main class="container mt-5 flex flex-grow">
+    <main class="w-full flex flex-grow">
+        @include('partials.sidebar')
         @yield('content')
     </main>
     @include('partials.footer')
