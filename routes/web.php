@@ -20,3 +20,10 @@ Route::get('/', function () {
 Route::get('/home', function () {
     return view('home');
 });
+
+Route::get('/kriteria', function () {
+    return view('kriteriaScreen');
+});
+Route::get('/alternatif', function () {
+    return view('alternatifScreen');
+});
